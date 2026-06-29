@@ -1,0 +1,22 @@
+ЗАСАГДСАН ФАЙЛ
+
+1) src/components/AuthForm.tsx
+- Login default утгуудыг устгасан: 99112233, Zaaldy@123
+- Placeholder нэмсэн
+- Бүртгэл санах checkbox нэмсэн
+- Зөвхөн утасны дугаар localStorage-д хадгална
+- Password хадгалахгүй
+- Хурууны хээ / Face ID / Passkey товч нэмсэн
+
+2) src/app/schedule/page.tsx
+- "Хуваарь харах заалаа сонго" гарчгийг "Заалаа цахимаар захиал" болгосон
+- Доорх урт тайлбар текстийг устгасан
+
+3) src/app/admin/login/page.tsx
+- Demo admin username/password харагддаг хэсгийг устгасан
+
+4) src/components/BookingForm.tsx
+- Утасны дугаарын placeholder-ийг цэвэрлэсэн
+
+5) src/components/PasswordResetForms.tsx
+- 99112233 / Zaaldy@123 placeholder-уудыг устгасан

@@ -1,0 +1,15 @@
+1) Terminal-aa Ctrl + C gej zogsoo.
+2) Project folder dotroo baina gedgee shalga. Terminal deer pwd/cd ashigla.
+3) Daraa n:
+
+npm install
+npx prisma generate
+npm run dev
+
+4) Browser deer Ctrl + F5.
+
+Hervee DATABASE_URL aldaa garval:
+copy .env.example .env
+npx prisma migrate dev --name init
+npx prisma db seed
+npm run dev
